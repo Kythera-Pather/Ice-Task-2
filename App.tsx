@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, Button, Image, TouchableOpacity, Modal, FlatList, StyleSheet } from "react-native";
+import { StyleSheet, Text, View, Image, Button, TouchableOpacity, Modal, FlatList } from 'react-native';
 
 const ParisDemo = () => {
   const [modalVisible, setModalVisible] = useState(false);
@@ -9,8 +9,8 @@ const ParisDemo = () => {
     <View style={styles.container}>
       
       {/* Title */}
-      <Text style={styles.title}>Paris Demo</Text>
-      <Text>This projects shows examples of UI components about Paris.</Text>
+      <Text style={styles.title}>Paris Project</Text>
+      <Text>This projects shows examples of 5 UI components showcasing around Paris.</Text>
 
       {/* Image */}
       <Text>This is an Image componet. It displays pictures.</Text>
