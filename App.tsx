@@ -21,7 +21,7 @@ const ParisDemo = () => {
       
 
       {/* FlatList */}
-      <Text>This is a FlatList. It renders lists efficiently.</Text>
+      <Text>This is a FlatList. It show list of items.</Text>
       <Text style={styles.sectionTitle}>Famous landmarks in Paris:</Text>
       <FlatList
         data={[
@@ -85,6 +85,7 @@ const styles = StyleSheet.create({
   sectionTitle: {
     marginTop: 10,
     fontWeight: "bold",
+    alignItems: "center"
   },
   touchable: {
     backgroundColor: "#db425bff",
@@ -108,6 +109,12 @@ const styles = StyleSheet.create({
     padding: 20,
     borderRadius: 10,
     alignItems: "center",
-
   },
-});
+
+  modalText: {
+    fontSize: 18,
+    backgroundColor: "#7971e2ff",
+    marginBottom: 15,
+    textAlign: "center",
+  },
+  });
