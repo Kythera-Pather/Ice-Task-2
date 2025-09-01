@@ -3,4 +3,6 @@
 <img width="1341" height="783" alt="image" src="https://github.com/user-attachments/assets/6de1d023-8529-44f0-8ec6-2168adf3c163" />
 <img width="1351" height="702" alt="image" src="https://github.com/user-attachments/assets/4ca07cc5-7644-4d8c-b1d8-f044a27edd97" />
 
+# Running the code
+![Uploading image.png…]()
 
