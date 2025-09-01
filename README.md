@@ -4,5 +4,6 @@
 <img width="1351" height="702" alt="image" src="https://github.com/user-attachments/assets/4ca07cc5-7644-4d8c-b1d8-f044a27edd97" />
 
 # Running the code
-![Uploading image.png…]()
+<img width="1906" height="945" alt="image" src="https://github.com/user-attachments/assets/35577ae1-05d8-464e-adbf-8b22f121a47b" />
+
 
