@@ -36,7 +36,7 @@ const ParisDemo = () => {
 
       {/* TouchableOpacity */}
       <Text>This is a TouchableOpacity. It’s like a pressable container.</Text>
-      <TouchableOpacity style={styles.touchable} onPress={() => alert("Bonjour from Paris the city of love!")}>
+      <TouchableOpacity style={styles.touchable} onPress={() => alert("Bonjour from Paris the city of love")}>
         <Text style={styles.touchText}>Say Hello</Text>
       </TouchableOpacity>
       
